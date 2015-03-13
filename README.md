@@ -1,4 +1,5 @@
-# dul-libweb-errordoc
+# Library Web Server Error Pages
+
 Static Files used on libweb to present static pages as error documents served by Apache web server.
 
 ## Current Files
